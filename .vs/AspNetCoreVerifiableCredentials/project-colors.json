@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e08b6e67-d95c-480e-8875-b707dd67e9ae": {
+      "ProjectGuid": "e08b6e67-d95c-480e-8875-b707dd67e9ae",
+      "DisplayName": "AspNetCoreVerifiableCredentials",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
