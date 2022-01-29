@@ -34,7 +34,7 @@
 
 ## Architecture
 
-<h1 align="center"><a href="https://iamdivakarkumar.com/" target="blank"><img height="240" src="./wwwroot/Immunity-Tracker-Arch.png"/><br/>Immunity Tracker</a></h1>
+<h1 align="center"><a href="https://iamdivakarkumar.com/" target="blank"><img height="500" src="./wwwroot/Immunity-Tracker-Arch.png"/><br/>Immunity Tracker</a></h1>
 
 
  <p align="right">(<a href="#top">back to top</a>)</p>
