@@ -29,7 +29,9 @@
 
 ## Features
 
- * Able to add multiple custom middlewares to the pipeline
+ * Able to verify vaccination status 
+ * Easier to integrate within the environment
+ * Reliable and Secure way 
  * Licenced under MIT - 100% free for personal and commercial use
 
 ## Architecture
