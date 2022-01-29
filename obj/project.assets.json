@@ -3589,11 +3589,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trainer\\active-directory-verifiable-credentials-dotnet\\1-asp-net-core-api-idtokenhint\\AspNetCoreVerifiableCredentials.csproj",
-      "projectName": "AspNetCoreVerifiableCredentials",
-      "projectPath": "D:\\Trainer\\active-directory-verifiable-credentials-dotnet\\1-asp-net-core-api-idtokenhint\\AspNetCoreVerifiableCredentials.csproj",
+      "projectUniqueName": "D:\\Trainer\\active-directory-verifiable-credentials-dotnet\\Issuer\\Issuer.csproj",
+      "projectName": "Issuer",
+      "projectPath": "D:\\Trainer\\active-directory-verifiable-credentials-dotnet\\Issuer\\Issuer.csproj",
       "packagesPath": "C:\\Users\\divak\\.nuget\\packages\\",
-      "outputPath": "D:\\Trainer\\active-directory-verifiable-credentials-dotnet\\1-asp-net-core-api-idtokenhint\\obj\\",
+      "outputPath": "D:\\Trainer\\active-directory-verifiable-credentials-dotnet\\Issuer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\divak\\AppData\\Roaming\\NuGet\\NuGet.Config",

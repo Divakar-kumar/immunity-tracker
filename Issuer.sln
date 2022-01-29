@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreVerifiableCredentials", "AspNetCoreVerifiableCredentials.csproj", "{E08B6E67-D95C-480E-8875-B707DD67E9AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Issuer", "Issuer.csproj", "{E08B6E67-D95C-480E-8875-B707DD67E9AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
