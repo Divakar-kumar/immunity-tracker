@@ -1,12 +1,8 @@
 <div id=top></div>
-<h1 align="center"><a href="https://iamdivakarkumar.com/" target="blank"><img height="240" src="./wwwroot/immunity-tracker-logo.jpg"/><br/>Immunity Tracker</a></h1>
+<h1 align="center"><a href="https://iamdivakarkumar.com/" target="blank"><img height="240" src="/Src/Issuer/wwwroot/immunity-tracker-logo.jpg"/><br/>Immunity Tracker</a></h1>
 
 <p align="center">
   <b>Decentralized identifier for health information in a secure and reliable way</b>
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> | <a href="#sample">Sample</a> | <a href="#installation">Installation</a> | <a href="#usage">Usage</a> | <a href="#special-thanks">Special Thanks</a> | <a href="https://github.com/cloud-jas/AzureFunctions.Extensions.Middleware/discussions">Forum</a>
 </p>
 
 <br/>
@@ -36,7 +32,7 @@
 
 ## Architecture
 
-<h1 align="center"><a href="https://iamdivakarkumar.com/" target="blank"><img height="500" src="./wwwroot/Immunity-Tracker-Arch.png"/><br/>Immunity Tracker</a></h1>
+<h1 align="center"><a href="https://iamdivakarkumar.com/" target="blank"><img height="500" src="Src/Issuer/wwwroot/Immunity-Tracker-Arch.png"/><br/>Immunity Tracker</a></h1>
 
 
  <p align="right">(<a href="#top">back to top</a>)</p>
