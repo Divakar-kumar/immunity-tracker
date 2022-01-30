@@ -1,0 +1,88 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFFF;
+}
+#wrap {
+    margin: 0 auto;
+    width: 80%;
+}
+#bannerimage {
+  width: 100%;
+  background-image: url(https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/809/514/datas/gallery.jpg);
+  height: 405px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.dark-purple-fill {
+  background-color: #3B2E58;
+}
+.light-purple-fill {
+  background-color: #8661c5;
+}
+
+.icon-small {
+  width: 50px;
+  padding-bottom: 5px;
+}
+
+.icon-text-large {
+  font-size: 100px;
+}
+
+.small-text {
+  font-size: 16px;
+}
+
+.tiny-text {
+  font-size: 12px;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#qrcode > img {
+  margin: 0 auto;
+  padding-top: 25px;
+}
+
+.margin-top-50 {
+  margin-top: 50px;
+}
+
+.margin-top-75 {
+  margin-top: 75px;
+}
+
+.margin-bottom-25 {
+  margin-bottom: 25px;
+}
+
+.margin-bottom-50 {
+  margin-bottom: 50px;
+}
+
+.margin-bottom-75 {
+  margin-bottom: 50px;
+}
+
+.margin-bottom-100 {
+  margin-bottom: 100px;
+}
+
+.green {
+  color: #228B22;
+}
+
+#message {
+  font-size: 1.5em;
+}
+
+#subject {
+    font-size: 1.5em;
+}
