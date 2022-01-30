@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/83343ae6-3277-475f-8be1-946e5d6d9359/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/did-issuer",
-    "appService.deploySubpath": "publish"
-}
